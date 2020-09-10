@@ -1,0 +1,14 @@
+4
+0 0 Home
+1 0 Theatre
+1 1 FoodyCircle
+2 2 BlackHole
+4
+0 1 FirstAve 20
+2 0 DiagonAlley 8
+1 2 SecondCross 10
+2 3 RoadToNowhere 5
+3
+3 0 2 3
+2 1 0
+3 0 3 2
