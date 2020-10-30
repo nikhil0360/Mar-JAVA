@@ -1,0 +1,13 @@
+Total billed: 5600
+Reports:
+1 B1 100
+2 B2 101
+3 P1 benign
+4 P2 benign
+5 P3 malignant
+6 B3 102
+7 P4 benign
+8 B4 103
+Total tests:
+BioChem: 4
+Path: 4
